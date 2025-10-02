@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Traditional Clothing</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Basotho Traditional Clothing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Music & Dance.html">Music & Dance</a></li>
+        <li><a href="Crafts & Arts.html">Crafts & Arts</a></li>
+        <li><a href="Contact & Feedback .html">Contact & Feedback</a></li>
+    
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="grid-container">
+      
+         <h1><i>Seshoeshoe</i></h1>
+        <img src="CLOTHING.jpg/seshoeshoe.jpg" alt="Seshoeshoe Dress" />
+        <p>Seshoeshoe clothing symbolizes Basotho identity, heritage, and pride. It is worn during important ceremonies, cultural festivals, and national celebrations, reflecting the community's history and social status. <a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+     
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+             <h1><i>Seana-marena</i></h1>
+        <img src="CLOTHING.jpg/Seanamarena.jpg" alt="Seanamarena blankets" />
+        <p>
+Seanamarena refers to a traditional and highly esteemed style of Basotho blanket from Lesotho, Southern Africa, symbolizing status and wealth. The name means "to swear by the chiefs" in Sesotho. These hand-woven blankets, made from wool and natural dyes, often feature a diamond-shaped design with a central star and are given as gifts or worn during important ceremonies.  <a href="https://lesotho-blanketwrap.com/category/lesotho-clothing-and-fashion/">Learn more</a></p>
+
+
+      </div>
+  
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Letata</i></h1>
+        <img src="CLOTHING.jpg/letata.jpg" alt="letata blanket" />
+        <p>A traditional Basotho blanket design symbolizing masculinity, strength, and dignity. Worn by men during rites of passage and ceremonial occasions, the Letata features bold patterns and earthy tones that reflect ancestral pride and male identity within Basotho culture. <a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+     
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Thethana</i></h1>
+        <img src="CLOTHING.jpg/thethana.jpg" alt="thethana" />
+        <p>The thethana is a traditional garment of the Basotho people, historically worn by young girls from childhood until puberty. It is a skirt-like accessory made of braided fibers attached to a waistband, with the length and adornments varying with the wearer's age and social status.  <a href="https://smarthistory.org/">Learn more</a></p>
+        
+      </div>
+    
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Lehlosi</i></h1>
+        <img src="CLOTHING.jpg/lehlosi.jpg" alt="lehlosi blanket" />
+        <p>
+A Lehlosi blanket was historically a very special, chief-worn blanket from Lesotho, traditionally made from the skins of wild animals, particularly leopards, but the name is now also used to refer to one of the popular, symbolic, and vibrantly patterned Basotho blankets. The modern Lehlosi blankets are part of the celebrated Basotho heritage blankets, known for their distinct designs, cultural significance, and use as a status symbol.  <a href="https://www.southafrica.net/za/en/travel/article/the-culture-of-basotho-history-people-clothing-and-food">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Lifatla</i></h1>
+        <img src="CLOTHING.jpg/lieta tsa lifatla.jpg" alt="lifatla shoes" />
+        <p>
+Lifatla are traditional Sesotho shoes made from the leather of a bull's forehead or from ox hide and antelope hide, used for various purposes including daily wear and as part of the attire for herdboys. These durable, leather-based footwear were essential in historical Lesotho, sometimes referred to as makupana (small) or sefatla.  <a href="https://share.google/lVxvgCUJNg2ck6EXQ">Learn more</a></p>
+      </div>
+   
+    </section>
+  </main>
+</header>
+
+  <main>
+    <section class="grid-container">
+      <h1><i>Setipana</i></h1>
+        <img src="CULTURAL IMAGES.PG/setipana.jpg" alt="Setipana blanket" />
+        <p> "Setipana" (also spelled setipaana) was a type of traditional clothing, a skirt or apron made from animal skin, that was worn by the Basotho people, usually men. <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Mokhahla</i></h1>
+        <img src="CULTURAL IMAGES.PG/mokhahla.jpg" alt="mokhahla blanket" />
+        <p>"Mokhahla" refers to one type of the traditional Basotho blankets worn by the people of Lesotho, which are a significant part of their cultural identity and daily life, providing warmth and protection from the elements, and serving as a symbol of status and heritage <a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+   
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Kuoane hat</i></h1>
+        <img src="CLOTHING.jpg/kuoane.jpg" alt="Kuoane" />
+        <p>
+Kuoane is a traditional hat worn by the Basotho people, made from animal skin and historically used by warriors. It is one of several types of animal skin hats, alongside the kharetsana and sekola, which were also part of traditional Basotho attire, with the sekola specifically associated with warriors.  <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+   
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Setea</i></h1>
+        <img src="CLOTHING.jpg/setea (2).jpg" width="50%", height="80%" alt="setea Dress" />
+        <p>setea is a traditional dress that was worn by  basotho women, made from the cow skin. <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+    
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+   
+      <h1><i>Setsiba</i></h1>
+        <img src="CLOTHING.jpg/setsiba.jpg" alt="setsiba" />
+        <p>
+Setsiba is the name for a traditional Basotho and Batswana woman's cloak, made from the skin of a black ox, that is worn during funerals and mourning periods. It can also be worn by men, for men it si made up of sheep skin . <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Morepo</i></h1>
+        <img src="CLOTHING.jpg/morepo.jpg" width="50%" , height="90%" alt="morepo Dress" />
+        <p>morepo is the name for a traditional dress worn by women. It usually made up of sheep skin and it is worn during the day. <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+ 
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+ 
+      <h1><i>Leqapha</i></h1>
+        <img src="CLOTHING.jpg/leqapha.jpg" alt="leqapha" />
+        <p>leqapha is the traditional underwear usually worn by men . It is also worn by boys when they come from initiation school. <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/11655935">Learn more</a></p>
+      </div>
+    
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+   
+      <h1><i>Sefate blanket</i></h1>
+        <img src="CLOTHING.jpg/sefate.jpg" alt="Sefate blanket" />
+        <p>Sefate is a morden blanket that  is usually worn by chiefs. It denotes power and status. <a href="https://whitewall.art/lifestyle/thula-tula-brings-basotho-traditions-to-the-world/">Learn more</a></p>
+      </div>
+   
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+   
+      <h1><i>Lesela la basotho</i></h1>
+        <img src="CLOTHING.jpg/lesela la basotho.jpg" width="30%",height="60%" alt="lesela la basotho" />
+        <p>"Lesela la Lesotho" is Sesotho for "fabric of Lesotho" or "Basotho fabric," which can refer to the textile industry and its products, particularly the iconic Sotho blanket ("seshoeshoe") which features vibrant patterns and is a significant cultural item.  <a href="https://whitewall.art/lifestyle/thula-tula-brings-basotho-traditions-to-the-world/">Learn more</a></p>
+      </div>
+
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+
+             <h1><i>Meqathatso</i></h1>
+        <img src="CLOTHING.jpg/meqathatso.jpg" alt="meqathatso shoes" />
+        <p> "meqathatso",refers to shoes traditionally worn by Basotho men, made from cowhide or other animal leather. These practical, durable shoes were often prepared by herdboys who would wrap wet hides around their feet to be dried and shaped into footwear. The process involved scraping and softening the hide to create a suitable material for cutting into the desired shoe size and shape, often with laces.  <a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+ 
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Liaparo tsa basotho</i></h1>
+        <img src="CLOTHING.jpg/liaparo tsa basotho.jpg" alt="liaparo tsa Basotho" />
+        <p> "Basotho traditional clothing" or "old Basotho clothes" in English, referring to the traditional attire of the Basotho people, especially the distinctive patterned Basotho blanket, which is a significant cultural garment.  <a href="https://aarven.com/collections/blankets-basotho-khotso-collection#:~:text=These%20blankets%20have%20a%20deep%20cultural%20significance,designs%20have%20been%20developed%20over%20many%20years.">Learn more</a></p>
+      </div>
+    
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+
+      <h1><i>Tsoape</i></h1>
+        <img src="CLOTHING.jpg/tsoape.jpg" alt="tsoape" />
+        <p>Tsoape is mentioned alongside other articles of traditional clothing in a presentation on "Meaparo ea Basotho ea Khale" (traditional Basotho clothing).
+It is sometimes referred to as tsoili or described as a type of ts'ea, which are garments made from animal hides or skins and worn by different members of society.<a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+    
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Seana-marena and Seshoeshoe</i></h1>
+        <img src="CLOTHING.jpg/seanamarena2.jpg" width="50%" , height="90%" alt="seanamarena hase aperoe ke banyalani" />
+        <p>Seanamarena blankets are often given as gifts during special occasions such as weddings, funerals and initiation ceremonies. They are also worn as a symbol of pride and status during traditional events and ceremonies.<a href="https://www.aranda.co.za/products/seanamarena-chromatic-scarlet-cobalt-black?srsltid=AfmBOoqLAvmeiIi-Y5y4lTj8-mIymrP9YHEWRnfY9w0buDcUYtKWasWb">Learn more</a></p>
+      </div>
+     
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Kholokoane</i></h1>
+        <img src="CLOTHING.jpg/kholokoane.jpg"width="50%",height="80%" alt="kholokoane" />
+        <p>A kholokoane is a woven grass belt or ring worn around the waist by Sotho women during their initiation (bale) to symbolize the protective circle of the enclosure surrounding their home and to prevent evil from entering. Also spelled kgolokwane, these belts are often worn in multiples and complement other traditional attire, such as the lesira veil.  <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+     
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+  
+      <h1><i>Lesira la bale</i></h1>
+        <img src="CLOTHING.jpg/lesira.jpg"width="50%",height="80%" alt="lesira" />
+        <p>The term 𝘭𝘦𝘴𝘪𝘳𝘢 comes from the word 𝘴𝘪𝘳𝘢, which means to protect or hide, it also refers to the veil worn by a bride on the wedding day. 𝗞𝗵𝗼𝗹𝗼𝗸𝗼𝗮𝗻𝗲 (singular) also spelt as 𝗸𝗴𝗼𝗹𝗼𝗸𝘄𝗮𝗻𝗲: Belt/ring worn around the waist by bale (Sotho female initiates) that made from woven grass<a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+     
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+    
+      <h1><i>Sebeto</i></h1>
+        <img src="CLOTHING.jpg/sebeto.jpg" width="50%",height="80%" alt="sebeto" />
+        <p>Sebeto is a traditional basotho apron that was usually worn by women<a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+   
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Seana-marena jackets</i></h1>
+        <img src="CLOTHING.jpg/seanamarena jacket.jpg" alt="Seana-marena jacket" />
+        <p>Seanamarena jackets are contemporary garments like coats, jackets, and other apparel that are expertly crafted from traditional Seanamarena Basotho blankets, a type of blanket with high status in Lesotho. The designs and vibrant patterns of these blankets are incorporated into the modern clothing, preserving the cultural heritage of the Basotho people while creating fashionable, wearable items.  <a href="https://www.aranda.co.za/products/seanamarena-chromatic-scarlet-cobalt-black?srsltid=AfmBOoqLAvmeiIi-Y5y4lTj8-mIymrP9YHEWRnfY9w0buDcUYtKWasWb">Learn more</a></p>
+      </div>
+  
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+    
+      <h1><i>Ts`ea</i></h1>
+        <img src="CLOTHING.jpg/tsea.jpg" width="50%" heigth="80%" alt="tsea for men" />
+        <p>Tsea is a traditional underwear that was worn by  boys when herding . <a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+   
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+    
+      <h1><i>Kobo-e-thokoa</i></h1>
+        <img src="CLOTHING.jpg/lethokoa.jpg" alt="Kobo-e-thokoa" />
+        <p>Kobo-e-thokoa is a traditional blanket worn by boys and men when herding the animals at motebong/meraka.<a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>Rubber-boots</i></h1>
+        <img src="CLOTHING.jpg/rubber boots for men.jpg" alt="Lkhohlopo tsa bo ntate" />
+        <p>Likhohlopo tsa bo-ntate(rubber-boots for men)  are usually worn by men and boys when it`s rainy as well as herding.<a href="https://helplesotho.org/traditional-basotho-dress/">Learn more</a></p>
+      </div>
+    
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+    
+      <h1><i>Sefaha</i></h1>
+        <img src="CLOTHING.jpg/sefaha (1).jpg" alt="Sefaha sa baotho" />
+        <p>Sefaha plays a crucial role in Basotho culture, with different types of beads signifying specific meanings or roles within the community. For example, "Sefaha sa Bakoma/Bakomotsana" are white beads worn by diviners to signify their spiritual connection. <a href="https://www.google.com/search?q=sefaha&rlz=1C1CHBF_enLS1179LS1179&oq=sefaha&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIHCAEQABiABDIMCAIQABgUGIcCGIAEMgcIAxAAGIAEMg0IBBAAGJECGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgoICRAAGIAEGKIE0gEINDA4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Learn more</a></p>
+      </div>
+     
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+     
+      <h1><i>letlama blanket</i></h1>
+        <img src="CLOTHING.jpg/letlama1.jpg" alt="Letlama blanket" />
+        <p>Letlama is a blanket that is worn by men and women who usually practice famo music. <a href="https://www.africablanket.co.za/">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+    
+      <h1><i>Mohodu blanket</i></h1>
+        <img src="CLOTHING.jpg/mohodu.jpg" alt="moholu blanket worn by chiefs" />
+        <p>Home
+
+The Mohodu is one of the oldest Basotho woollen blankets dating back to the mid-thirties.  <a href="https://www.aranda.co.za/products/mohodu-border-stripe?srsltid=AfmBOor7G2ktFTiypL1U9rRJ9VH81F09mSU4teUjLRI2b7EqxrlfpZzQ">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Lesotho T-shirt</i></h1>
+        <img src="CLOTHING.jpg/lesotho t-shirt.jpg" alt="lesotho t-shirt" />
+        <p>This is the basotho t-shirt displaying the colours ofnthe national flag of Lesotho. It is usually worn by everyone so as to showcase the culture of Lesotho<a href="https://tshirtslesotho.co.za/">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Moshoeshoe blanket</i></h1>
+        <img src="CLOTHING.jpg/moshoeshoe blanket.jpg" alt="Kobo e toroileng moshoeshoe" />
+        <p>A "Moshoeshoe blanket" can refer to a blanket featuring the image of King Moshoeshoe I on it, often in a specific design that also includes elements like Sotho shields and the Thaba Bosiu region. These blankets are part of the rich tradition of Basotho blankets from Lesotho and Southern Africa, which are more than just a covering but carry deep cultural significance and heritage <a href="https://safreachronicle.co.za/basotho-blankets-lesotho-stories-and-emblems/">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Lesotho shoes</i></h1>
+        <img src="CLOTHING.jpg/basotho shoes.jpg" alt="basotho shoes" />
+        <p>This are the shoes that usually worn by everyone . They showcase the national flag of the national flag of Lesotho. <a href="https://tshirtslesotho.co.za/">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+      
+      <h1><i>Khosana-Motlatsi blanket</i></h1>
+        <img src="CLOTHING.jpg/khosana motlatsi.jpg" alt="Khosana-motlatsi" />
+        <p>a specific design of a Basotho blanket created by Aranda to honor the birth of Crown Prince Lerotholi in 2007, symbolizing the "successor" (Motlatsi) and the love of the people for the royal family. <a href="https://safreachronicle.co.za/basotho-blankets-lesotho-stories-and-emblems/">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+    
+      <h1><i>Kharetsana hat</i></h1>
+        <img src="CLOTHING.jpg/kharetsana.jpg" alt="kharetsana hat" />
+        <p>The girl on the picture displays the basotho hat called  kharetsana which is usually worn by women.<a href="https://www.slideshare.net/slideshow/meaparo-ea-basotho-ea-khale/116559355">Learn more</a></p>
+      </div>
+      
+    </section>
+  </main>
+</header>
+  <main>
+    <section class="grid-container">
+          
+      <h1><i>Ts'ets'e hat</i></h1>
+        <img src="CLOTHING.jpg/tshetshe.jpg" alt="tshetshe hat" />
+        <p>Ts`ets`e is a type of straw hat widely used for traditional Sotho clothing, and is the national symbol of Lesotho and the national symbol of the Basotho and Lesotho people. <a href="https://www.threads.com/@shweshwekini/post/C9ILFdZNlJd?hl=en">Learn more</a></p>
+      </div>
+    
+    </section>
+  </main>
+<footer class="footer">
+  <div class="footer-links">
+    <a href="index.html">Home</a>
+    <a href="Tradition & clothing.html">Traditional Clothing</a>
+    <a href="Music & Dance.html">Music & Dance</a>
+    <a href="Crafts & Arts.html">Crafts & Art</a>
+    <a href="Contact & Feedback .html">Contact</a>
+  </div>
+  <nav class="link">
+    <p>Follow us on:</p>
+  <a href="https://www.facebook.com/lesotho cultural heritage"><img src="CULTURAL IMAGES.PG/facebook.jpg" alt="facebook icon"></a>
+  <a href="https://whatsapp.com/dl/lesotho cultural heritage"><img src="CULTURAL IMAGES.PG/whatsapp.png" alt="whtsapp icon"></a>
+  </nav>
+  <p><strong>Basotho Cultural Heritage</strong></p>
+  <p>&copy; 2025 All rights reserved</p>
+  This page was Created by Lisema Nkotsi.
+</footer>
+</body>
+</html>
