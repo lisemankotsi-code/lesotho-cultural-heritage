@@ -1,0 +1,356 @@
+
+
+
+body, h1, p, ul {
+  margin: 0;
+  padding: 0;
+
+  
+  }
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif,italic;
+  background-color: none;
+  border-color:solid #0c0fc0;
+  background-image: url("CULTURAL\ IMAGES.PG/folakha ea lesotho.png");
+  background-size:contain;
+  background-position:top;
+  background-repeat: none;
+  background-attachment:fixed;
+  color:#fff;
+  
+  
+  color: #333;
+  line-height: 1.6;
+}
+
+
+header {
+  background-color: #061499;
+  color:none;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.2em;
+}
+
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fddc9a;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+  
+}
+
+nav ul li a:hover {
+  color: #ffe4c4;
+  background-color: #333;
+  position:sticky;
+  top:0px;
+}
+
+nav top{
+  position: sticky;
+  top:initial;
+  background:blue ;
+  z-index: 1000;
+  
+}
+.hero {
+  margin: 10px;
+  max-width: 600px;
+  text-align: center;
+}
+
+.hero img {
+  width: 60%;
+  height: 60%;
+  border-radius: 6px;
+  box-shadow: none;
+}
+.hero img:hover{
+  color: white;
+  background-color: whitesmoke;
+  
+}
+
+input:focus, textarea:focus {
+  border-color:blue;
+  outline: #2bc9c9;
+  background-color: #cccccc;
+  
+  
+}
+button:hover {
+  background-color: #0077cc;
+  color: white;
+}
+
+.grid-container {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  background-color: whitesmoke;
+}
+
+.cultural-item {
+  background-color:none;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.cultural-item:hover {
+  transform: scale(2.5em);
+}
+
+
+.cultural-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;  
+  animation: backwards;
+}
+
+
+.cultural-item p {
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+
+.cultural-item a {
+  color: green;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cultural-item a:hover {
+  text-decoration: underline;
+  background-color: #fddc9a;
+  border: #2d5a2d;
+  border-radius: 3px;
+}
+
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color:none;
+  background-clip: border-box;
+
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+
+header {
+  background-color: #0942ac;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+
+nav ul {
+  list-style: none;
+  display:flexbox;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap:wrap-reverse;
+  position:sticky;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #061499;
+}
+
+main {
+  margin-top: 30px;
+}
+
+
+section {
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: whitesmoke;
+  border-left: 6px solid none;
+  border-radius: 6px;
+}
+
+
+h2 {
+  color: #1e1ae0;
+  margin-bottom: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  color: #0c0fc0;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+
+article p {
+  margin-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: whitesmoke;
+}
+
+
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border-color:blue;
+  margin-top: 20px;
+}
+
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: var(#061499);
+    align-items:center;
+  }
+
+  header h1 {
+    font-size: 2em;
+  }
+}
+form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+label {
+  font-weight: bold;
+  color: #333;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0 15px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border:green;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background:blue;
+}
+.footer {
+  background-color: green;
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+  position:relative;
+  left:0px;
+  bottom: 0px;;
+}
+
+.footer-links {
+  margin-bottom: 20px;
+  
+}
+
+.footer-links a {
+  color: #ffd700;
+  text-decoration: none;
+  margin: 0 15px;
+ 
+  
+}
+
+.footer-links a:hover {
+  color: white;
+  
+}
+
+.footer p {
+  margin: 10px 0;
+  color: #cccccc;
+}
+img {
+  border: 4px solid blue; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  transition: transform 0.5s ease, box-shadow 0.6s ease;
+  border-radius: 8px;
+  transform-style:flat;
+}
+
+img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+ 
+
+nav a img{
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+}
+button:hover{
+  color:#ffe4c4
+}
